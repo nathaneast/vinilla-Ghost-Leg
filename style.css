@@ -1,0 +1,19 @@
+/* homeScreen */
+.hideEffect{
+    display: none;
+}
+
+/* gameScreen */
+.gameScreen{
+    width: 900px;
+    /* height: 500px; */
+    background-color: antiquewhite;
+}
+
+.inputSet{
+    width: 70px;
+    height: 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 10px 40px;
+}
